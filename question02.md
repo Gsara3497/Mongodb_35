@@ -8,20 +8,32 @@ Result:
 
   {
     _id: ObjectId('6613742ff615cc997616c9b5'),
+    
     id: '1',
+    
     product_name: 'Intelligent Fresh Chips',
+    
     product_price: 655,
+    
     product_material: 'Concrete',
+    
     product_color: 'mint green'
+    
   },
   
   {
     _id: ObjectId('6613742ff615cc997616c9b7'),
+    
     id: '3',
+    
     product_name: 'Refined Steel Car',
+    
     product_price: 690,
+    
     product_material: 'Rubber',
+    
     product_color: 'gold'
+    
   },
   
   {
@@ -35,20 +47,32 @@ Result:
   
   {
     _id: ObjectId('6613742ff615cc997616c9ba'),
+    
     id: '6',
+    
     product_name: 'Awesome Wooden Towels',
+    
     product_price: 474,
+    
     product_material: 'Plastic',
+    
     product_color: 'orange'
+    
   },
   
   {
     _id: ObjectId('6613742ff615cc997616c9bb'),
+    
     id: '7',
+    
     product_name: 'Practical Soft Shoes',
+    
     product_price: 500,
+    
     product_material: 'Rubber',
+
     product_color: 'pink'
+    
   }
   
 ]
