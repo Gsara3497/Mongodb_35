@@ -4,4 +4,7 @@ Query:     db.products.deleteMany({product_price:28})
 
 Result:
 
-{ acknowledged: true, deletedCount: 1 }
+{
+  acknowledged: true,
+  deletedCount: 1 
+  }
