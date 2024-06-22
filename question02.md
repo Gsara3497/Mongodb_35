@@ -7,6 +7,7 @@ Result:
 [
 
   {
+  
     _id: ObjectId('6613742ff615cc997616c9b5'),
     
     id: '1',
@@ -22,6 +23,7 @@ Result:
   },
   
   {
+  
     _id: ObjectId('6613742ff615cc997616c9b7'),
     
     id: '3',
@@ -37,15 +39,23 @@ Result:
   },
   
   {
+  
     _id: ObjectId('6613742ff615cc997616c9b8'),
+    
     id: '4',
+    
     product_name: 'Gorgeous Plastic Pants',
+    
     product_price: 492,
+    
     product_material: 'Soft',
+    
     product_color: 'plum'
+    
   },
   
   {
+  
     _id: ObjectId('6613742ff615cc997616c9ba'),
     
     id: '6',
@@ -61,6 +71,7 @@ Result:
   },
   
   {
+  
     _id: ObjectId('6613742ff615cc997616c9bb'),
     
     id: '7',
