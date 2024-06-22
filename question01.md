@@ -1,6 +1,6 @@
 
 Creating Database: 
-Query:  use MongoDBTask 
+Query:  use databaseday35;
 
 Inserting Document into products collection: 
 Query:  db.products.insertMany([{},{}])
